@@ -1,6 +1,6 @@
 # Project Name
 
-> SKELETON MOBILE VERSION.
+> survey form.
 
 
 ## Built With
